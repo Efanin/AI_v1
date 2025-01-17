@@ -1,4 +1,4 @@
-#pip install requests beautifulsoup4 
+#pip install requests beautifulsoup4 pillow lxml
 #pip install pillow
 import requests
 from bs4 import BeautifulSoup
